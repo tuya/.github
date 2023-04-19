@@ -1,4 +1,4 @@
-[![](./site_logo.png)](https://tuyaos.com)
+<p align="center"><a href="https://tuyaos.com" target="_blank"><img src="https://github.com/tuya/.github/raw/main/profile/site_logo.png" width="400"></a></p>
 
 ## About Tuya: IoT made easy
 
