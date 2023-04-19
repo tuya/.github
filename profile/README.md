@@ -1,4 +1,4 @@
-[![](site_logo.png)](https://tuyaos.com)
+[![](./site_logo.png)](https://tuyaos.com)
 
 ## About Tuya: IoT made easy
 
