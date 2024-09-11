@@ -26,7 +26,7 @@ Tuya Developer Platform is a global platform that builds IoT development and int
 
 * 🧩[Smart MiniApp](https://developer.tuya.com/miniapp): Develop, test, deploy, and manage user-friendly multi-platform MiniApp from a single codebase, in a way like building web apps.
 
-* 🧩[Tuya Panel Kit](https://github.com/tuya/tuya-panel-kit): Tuya Panel SDK is designed to promote the development of smart device panels.
+* 🧩[Smart App SDK](https://developer.tuya.com/docs/app-development): Provides development kits related to the development of mobile applications, allowing you to quickly develop your own industry, smart home, lighting, and other mobile applications.
 
 
 ## Explore More
