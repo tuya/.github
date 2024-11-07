@@ -13,7 +13,7 @@ Tuya Developer Platform is a global platform that builds IoT development and int
 ## TuyaOpen Framework
 
 * 🚀[TuyaOpen](https://github.com/tuya/tuyaopen): An open (open source and open access to many IoT clouds) IoT development framework that enables quick integration of smart devices into IoT clouds.  
-* 🚀[TuyaOpen for Arduino](https://github.com/tuya/arduino-tuyaopen): Develop IoT products using Tuya Open SDK on Arduino IDE.
+* 🚀[TuyaOpen for Arduino](https://github.com/tuya/arduino-tuyaopen): Develop IoT products using TuyaOpen on Arduino IDE.
 
 
 ## Tuya Solutions
